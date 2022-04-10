@@ -1,4 +1,4 @@
-FROM centos:lates
+FROM centos:lates        
 Maintainer attarfaisal087@gmail.com
 RUN yum install -y httpd \
 zip \
